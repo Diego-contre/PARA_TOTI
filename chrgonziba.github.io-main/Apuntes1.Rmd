@@ -1,0 +1,28 @@
+---
+title:  <span style="font-family:Times New Roman">Apuntes</span>.
+output:
+  html_document:
+    css: style.css
+    theme: cosmo
+    highlight: textmate
+---
+Cualquier comentario (u observación) porfavor escribir al correo chrgonziba@gmail.com.
+
+Muchas Gracias!
+
+## Finanzas Corporativas.
+
+- [Modigliani & Miller](Apuntes/Finanzas/M&M.pdf)
+- [Hamada & Rubinstein](Apuntes/Finanzas/HamdaRubinstein.pdf)
+- [Estructura de capital óptima (en elaboración)](Apuntes/Finanzas/EstructuraO.pdf)
+
+## Econometría.
+
+- [Apunte econometría cohorte transversal (en elaboración)](Apuntes/Econometría/Econ1.pdf)
+
+## Macroeconomía.
+
+- [IS-LM Economía cerrada](Apuntes/Macroeconomía/IS-LM economía cerrada.pdf)
+
+
+
